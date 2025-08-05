@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+msg
+>>>>>>> dd35b0a (initial msg to commit)
